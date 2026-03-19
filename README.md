@@ -149,11 +149,6 @@ Eight dedicated Swing panels, one per feature:
 
 ---
 
-## Screenshots
-
-> _Add screenshots of your application here_
-
----
 
 ## Group Info
 
